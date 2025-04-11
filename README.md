@@ -9,8 +9,10 @@ I’m currently interested to learn **Java**,**AI**,**Computer Network**
 
 
 ### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MairuNgong&layout=compact&theme=dracula)
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=MairuNgong&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MairuNgong&layout=compact&theme=dracula)  
+![MairuNgong's GitHub stats](https://github-readme-stats.vercel.app/api?username=MairuNgong&show_icons=true&theme=tokyonight)
+
 
 ### 🚧 Current Projects
 > Building a POS station with **Angular**
