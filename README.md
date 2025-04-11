@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**MairuNgong/MairuNgong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I'm a student bachalor in computer engineering at **KMITL**.
+I like to learing something new when I'm free.
+I also like astrophysics/astronomy but not in detail tho.
+I’m currently interested to learn **Java**,**AI**,**Computer Network**
 
-Here are some ideas to get you started:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+
+### 🚧 Current Projects
+> Building a POS station with **Angular**
+
+
+📫 reach me: ssupawej@gmail.com  
