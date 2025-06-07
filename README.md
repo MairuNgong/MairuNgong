@@ -12,8 +12,4 @@ Currently, I'm diving into **Java**, **AI**, and **Computer Networks**.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MairuNgong&layout=compact&theme=dracula)  
 ![MairuNgong's GitHub stats](https://github-readme-stats.vercel.app/api?username=MairuNgong&show_icons=true&theme=tokyonight)
 
-### 🚧 Current Projects
-> Building a POS station with **Angular**
-
-
 ### 📫 reach me: ssupawej@gmail.com  
