@@ -5,7 +5,7 @@
 I'm a Bachelor's student in Computer Engineering at **KMITL**.  
 I like learning new things when I'm free.  
 I'm also interested in astrophysics and astronomy (but not too deep into the details 💀).  
-Currently, I'm diving into **Java**, **AI**, and **Computer Networks**.
+Currently, I'm diving into **AI**, and **Computer Networks**.
 
 ### 📊 GitHub Stats
 
