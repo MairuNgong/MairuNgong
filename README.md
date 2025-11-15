@@ -9,7 +9,7 @@ Currently, I'm diving into **AI**, and **Computer Networks**.
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MairuNgong&layout=compact&theme=dracula)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MairuNgong&layout=compact&theme=dracula&exclude_repo=Digital-Image-Processing)  
 ![MairuNgong's GitHub stats](https://github-readme-stats.vercel.app/api?username=MairuNgong&show_icons=true&theme=tokyonight)
 
 ### 📫 reach me: ssupawej@gmail.com  
